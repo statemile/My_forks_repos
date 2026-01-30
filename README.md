@@ -1,6 +1,7 @@
 # Forked repositories
 
 This repo lists my forks across different fields (data science, statistics, clinical research, ...).
+Forks are grouped here for reference; individual repos keep their original history.
 
 ## Data / ML
 - 📊 [repo-name-1](https://github.com/you/repo-name-1) — short note
